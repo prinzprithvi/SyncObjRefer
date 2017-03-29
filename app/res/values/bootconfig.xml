@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="remoteAccessConsumerKey">3MVG9d8..z.hDcPK0oV64f7p1.FBaSLZ6VHmbIioB0G_omaWXJ9ELllG2uRNsmaxfZwEUBp9tt9V30KJMEMLh
+</string>
+    <string name="oauthRedirectURI">mysampleapp://auth/success</string>
+    <string-array name="oauthScopes">
+        <item>api</item>
+    </string-array>
+    <string name="androidPushNotificationClientId"></string>
+</resources>

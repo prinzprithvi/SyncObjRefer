@@ -1,0 +1,6 @@
+.gradle
+.idea
+app/build
+build
+RestExplorer/build
+AppConfigurator/build
